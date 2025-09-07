@@ -9,4 +9,3 @@
 ### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammargit93&hide=html,css,kvlang&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ammargit93&show_icons=true&theme=tokyonight)
