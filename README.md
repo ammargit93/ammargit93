@@ -8,4 +8,4 @@
 - 📚 Always learning.
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammargit93&hide=html,css,kvlang&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammargit93&layout=compact&theme=tokyonight)
