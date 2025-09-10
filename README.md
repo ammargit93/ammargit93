@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Ammar Ansari
 
-💻 IT student | Developer | Problem Solver
+💻 Computer Engineering Student | Developer | Problem Solver
 
 - 🌱 Currently exploring Go, Python, and Cloud technologies.
 - ⚡ Love building tools, data-driven apps, and experimental projects.
