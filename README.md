@@ -6,6 +6,4 @@
 - ⚡ Love building tools, data-driven apps, and experimental projects.
 - 🚀 Interested in AI, Backend Systems and Cloud Computing. 
 - 📚 Always learning.
-### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ammargit93&hide=html,css,kvlang&layout=compact&theme=tokyonight)
