@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Ammar Ansari
 
 💻 Computer Engineering Student | Backend & AI Developer  
-
 🚀 Interested in **AI, Backend Systems, and Cloud Computing**  
 ⚡ I enjoy building **tools, automation systems, and data-driven applications**  
 📚 Currently exploring **Go, Python, Distributed Systems, and Cloud Infrastructure**
@@ -31,31 +30,6 @@
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ammargit93&theme=tokyonight)
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 ReviewBot: AI-Powered Code Review System
-Python, FastAPI, LangChain, ChromaDB, SQLite, TortoiseORM, Gemini  
-- Built an LLM-powered code review and repository analysis system for querying large codebases.  
-- Implemented a concurrent indexing and embedding pipeline with Chroma, achieving up to 40× faster processing.  
-- Designed a RAG-based architecture enabling semantic search and conversational interaction over repositories.  
-- Implemented session-based chats with per-session memory to preserve context across repository analysis conversations.  
-
-### 🔹 EmberDB: Persistent Key-Value Database Engine
-Go, WAL, Concurrency, File I/O, CLI Tools  
-- Built a persistent key-value database with Write-Ahead Logging (WAL) and snapshot-based crash recovery.  
-- Implemented namespace-based data isolation with in-memory indexing and durable on-disk storage.  
-- Designed concurrent-safe read/write paths using mutexes and background WAL processing.  
-- Developed a Go SDK enabling programmatic interaction with the database server for integration into external services.  
-
-### 🔐 Vilo: Git-Inspired Backup Tool
-Go, Python, AES-256, AWS EC2  
-- Designed a Git-inspired backup and versioning system enabling snapshot-based state tracking of files and directories.  
-- Implemented efficient version storage using content hashing and metadata tracking inside a dedicated `.vilo` directory.  
-- Built rollback and recovery mechanisms to restore previous versions reliably after data corruption or accidental deletion.  
-- Optimized parallel AES-256 encryption, reducing file encryption time from 900ms to 400ms (~2× faster).  
 
 ---
 
