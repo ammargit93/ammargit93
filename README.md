@@ -33,12 +33,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/ammargit93/ammargit93/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohammed-ammar-ansari-03a4a9287/)
