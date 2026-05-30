@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm **Ammar Ansari**, a Computer Engineering student and aspiring Backend Engineer passionate about building scalable systems, cloud-native applications, and AI-powered solutions.
+I'm **Ammar Ansari**, a Backend Engineer passionate about building scalable systems, cloud-native applications, and AI-powered solutions.
 
 I enjoy solving complex problems, designing efficient backend architectures, and exploring modern technologies that power real-world applications. My interests span across **Backend Development, Cloud Computing, Distributed Systems, and Artificial Intelligence**.
 
@@ -37,9 +37,8 @@ When I'm not coding, you'll find me solving programming challenges or exploring 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ammargit93&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ammargit93&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ammargit93&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ammargit93&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css)
 
----
-[![](https://komarev.com/ghpvc/?username=ammargit93&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
